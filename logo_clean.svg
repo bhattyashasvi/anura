@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 880" fill="#121942">
+  <!-- Lower left wave -->
+  <path d="M 40 840 L 205 840 L 348 440 C 260 440 160 520 128 600 L 40 840 Z" />
+  
+  <!-- Upper wave -->
+  <path d="M 348 440 L 512 440 L 645 45 C 570 45 490 65 444 180 L 348 440 Z" />
+  
+  <!-- Right pillar -->
+  <path d="M 645 45 C 720 45 815 95 836 180 L 960 840 L 795 840 L 645 45 Z" />
+</svg>

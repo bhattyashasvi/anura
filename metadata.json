@@ -1,0 +1,6 @@
+{
+  "name": "Anura - Autism Support & Care Platform",
+  "description": "Where growth finds beauty. A dedicated web platform for parents and caregivers of autistic children to manage routines, visual schedules, milestones, expert therapy, and community support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
